@@ -1,0 +1,62 @@
+[
+  {
+    "id": "honey-never-spoils",
+    "topic": "Did You Know?",
+    "text": "Honey never spoils. Archaeologists have found three thousand year old honey in Egyptian tombs that is still perfectly edible.",
+    "used": false
+  },
+  {
+    "id": "octopus-hearts",
+    "topic": "Did You Know?",
+    "text": "Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body.",
+    "used": false
+  },
+  {
+    "id": "bananas-are-berries",
+    "topic": "Did You Know?",
+    "text": "Bananas are botanically classified as berries, but strawberries are not. Strawberries are actually an aggregate fruit.",
+    "used": false
+  },
+  {
+    "id": "sharks-older-than-trees",
+    "topic": "Did You Know?",
+    "text": "Sharks are older than trees. Sharks appeared around four hundred million years ago, while trees appeared about three hundred fifty million years ago.",
+    "used": false
+  },
+  {
+    "id": "eiffel-tower-grows",
+    "topic": "Did You Know?",
+    "text": "The Eiffel Tower can grow more than six inches taller during the summer, because the iron expands in the heat.",
+    "used": false
+  },
+  {
+    "id": "wombat-cube-poop",
+    "topic": "Did You Know?",
+    "text": "Wombats produce cube shaped poop. Scientists believe it stops the droppings from rolling away and helps them mark territory.",
+    "used": false
+  },
+  {
+    "id": "venus-hottest-planet",
+    "topic": "Did You Know?",
+    "text": "Venus is the hottest planet in our solar system, even though Mercury is closer to the Sun, because of its thick greenhouse gas atmosphere.",
+    "used": false
+  },
+  {
+    "id": "human-nose-smells",
+    "topic": "Did You Know?",
+    "text": "The human nose can detect over one trillion distinct scents, far more than scientists once believed was possible.",
+    "used": false
+  },
+  {
+    "id": "great-wall-not-visible",
+    "topic": "Did You Know?",
+    "text": "The Great Wall of China is not actually visible from space with the naked eye, despite the popular myth.",
+    "used": false
+  },
+  {
+    "id": "tardigrade-survival",
+    "topic": "Did You Know?",
+    "text": "Tardigrades, also called water bears, can survive the vacuum of outer space, extreme radiation, and being frozen for decades.",
+    "used": false
+  }
+]

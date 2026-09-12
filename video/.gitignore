@@ -5,3 +5,6 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Generated narration audio from the auto-pipeline (regenerated on each run).
+public/audio

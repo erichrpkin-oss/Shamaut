@@ -37,6 +37,13 @@ npx remotion render
 npx remotion upgrade
 ```
 
+## Automated YouTube Shorts pipeline
+
+This project also includes a `FactShort` composition plus scripts to
+generate narration (OpenAI TTS), synced captions (Whisper), render, and
+auto-upload to YouTube — optionally on a daily schedule via GitHub Actions.
+See [AUTOMATION.md](./AUTOMATION.md) for full setup instructions (in Hebrew).
+
 ## Docs
 
 Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
